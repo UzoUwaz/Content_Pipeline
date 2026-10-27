@@ -1,3 +1,7 @@
+#unignore gitkeeps!
+!.gitkeep
+!**/.gitkeep
+
 # Secrets / env vars
 .env
 .env.local
