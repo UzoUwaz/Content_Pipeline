@@ -1,7 +1,3 @@
-#unignore gitkeeps!
-!.gitkeep
-!**/.gitkeep
-
 # Secrets / env vars
 .env
 .env.local
@@ -99,3 +95,7 @@ aws-credentials*
 # Whisper transcripts and plans
 input/*.json
 plans/*
+
+#unignore gitkeeps!
+
+!**/.gitkeep
