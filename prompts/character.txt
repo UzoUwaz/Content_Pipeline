@@ -1,0 +1,34 @@
+# This text is appended to EVERY image prompt.
+# It describes a DRAWING CONVENTION, not a person.
+#
+# The rule that keeps figures neutral is: the head circle is never filled,
+# and no hairstyle, body or face is specified here. Hair, props and clothing
+# shapes come from the SCENE when a scene needs them, not from this file.
+# The moment this file describes a specific look, the model renders a
+# specific human and invents the rest.
+#
+# Lines starting with # are stripped before the prompt is sent.
+
+People in this image are cartoony noodle-limbed figures, not detailed
+humans. Round head, bendy single-line or thin noodle arms and legs, and
+round bubble hands and bubble feet like an old rubber-hose cartoon. Poses
+are loose, springy and exaggerated — leaning, reaching, slumping, jumping,
+arms flung out.
+
+Faces are simple and very expressive: two dot or oval eyes, thick simple
+eyebrows that carry the emotion, and one bold curved mouth line. Add sweat
+drops, motion lines, or a single floating symbol when it sells the feeling.
+Readable in one second from across a room.
+
+Heads are left as plain unfilled white circles. No skin tone, no color fill,
+no shading on the face or body. A figure may have a simple flat black hair
+shape ONLY when the scene text asks for one, and it is a basic silhouette
+shape, never rendered strands, texture, or a specific real hairstyle.
+
+Clothing is a single flat shape at most when a scene needs it — one
+rectangle for a shirt, one triangle for a skirt, one curve for a hood.
+No folds, no detail, no logos, no outfits.
+
+There is no recurring character and no main character. Each image stands
+alone. Where two figures must be told apart, use a label, a prop, or a
+posture difference — never a difference in face, hair, body type, or color.

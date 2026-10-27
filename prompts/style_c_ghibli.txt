@@ -1,0 +1,31 @@
+Draw a single frame in the style of hand-painted 2D animation from a 1990s Japanese feature film.
+
+RENDERING (how it is drawn):
+- Gouache and watercolor backgrounds with visible brush texture and paper grain
+- Clean confident ink linework on characters, thin to medium weight
+- Painted natural light, soft shadows, no harsh contrast
+- Simple facial features, large readable emotion
+- Muted, desaturated base palette: warm gray, dusty blue, pale sage, cedar brown, overcast white
+- ONE saturated accent color per frame, used only on the single most important object or action in the scene
+- Everything else stays desaturated so the accent carries the eye
+- Accent options: red, ember orange, gold, cold luminous white
+
+SETTING:
+The setting is whatever the scene below describes, and nothing else. Contemporary everyday life unless the scene says otherwise: apartments, kitchens, gyms, parking lots, offices, bars, buses, bedrooms, phone screens, sidewalks. Do not add mountains, forests, mist, temples, or wilderness unless the scene explicitly calls for them. Do not add historical or fantasy elements.
+
+FRAMING:
+Draw exactly what the scene describes. The described action is the subject of the frame and must be clearly visible and immediately readable. Do not substitute a more scenic or symbolic image.
+
+Vary the shot. Use close-ups on hands and faces, mid shots, and wide shots as the scene requires. Do not default to a distant figure in a landscape. If the scene involves a person, they should usually be close enough to read their expression.
+
+Capture a moment of motion rather than a portrait: mid-gesture, mid-step, reaching, turning, setting something down, looking up. Body language carries the emotion.
+
+AVOID:
+- No photorealism, no 3D render, no CGI
+- No neon, no heavy gradients, no lens flare, no glossy modern design
+- No cluttered composition
+- No text, watermarks, signatures, or borders
+
+Format: horizontal 16:9 wide frame. Do not crop important objects. Avoid glitches, broken anatomy, extra limbs, and messy overlapping objects.
+
+Scene to illustrate:

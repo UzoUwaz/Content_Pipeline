@@ -1,0 +1,26 @@
+Draw a single image in an extremely simple beginner MS Paint style. It must look like a kid who is talented at drawing graphic art but just doodles in his free time. Keep it descriptive but simple woth relevant labelings too.
+
+Style requirements:
+- White background
+- Thick, uneven black outlines
+- Stick figure humans with round heads and line bodies
+- Simple dot eyes or circle eyes
+- Funny and accurate facial expressions
+- Flat colors only, occasionally green, brown, gray, red, yellow, orange, or blue
+- Mostly white empty space
+- Red arrows or red question marks when they help
+- No realistic shading, no 3D, no cinematic lighting
+- No Disney style, no anime style, no realistic cartoon style
+- No polished illustration, no professional vector art
+- No detailed backgrounds, no complex textures, no realistic humans
+- No glossy or modern design
+
+Objects should be built from basic shapes: squares, circles, rectangles, arrows, simple tables, boxes, trees, rooms, signs, screens, stickmen, question marks, and very simple symbols.
+
+The drawing should feel amateur, funny, simple,  — like a noob drew it in Paint. Do not make it look too good but also not too bad. 
+
+Format: horizontal 16:9 wide frame. Clean, readable, centered. Do not crop important objects. Leave space around characters and objects. Avoid glitches, broken anatomy, unreadable text, and messy overlapping objects.
+
+Do not put any words or lettering in the image unless the scene truly needs it. If text is unavoidable it must be one or two short words, spelled correctly, handwritten style.
+
+Scene to illustrate:

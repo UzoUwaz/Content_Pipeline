@@ -90,7 +90,7 @@ credentials.json
 secrets.json
 service-account*.json
 aws-credentials*
-
+*.lnk
 
 # Whisper transcripts and plans
 input/*.json

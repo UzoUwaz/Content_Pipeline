@@ -1,0 +1,42 @@
+Draw a single image in a simple, cartoony doodle style, like a talented teenager who wants to be a comic book artist drew it in their sketchbook during free time. It should look hand-drawn and a little rough, but confident and fun, with clear storytelling.
+
+Style requirements:
+- Background is allowed to have color and details that bring scene to life but doesn't have to be overdone. 
+- Bold black outlines with slightly uneven, hand-drawn line weight
+- Cartoony stick figure people with round heads, simple line or single line limbs, and dynamic poses
+- Characters can have small comic-hero touches when the scene fits: a flowing cape, a headband, a chest symbol, big gloves for hands, action stances, speed lines
+- Simple dot or oval eyes with expressive eyebrows
+- Funny, exaggerated, easy-to-read facial expressions: shock, smugness, sadness, confidence, confusion
+- Flat colors only, using a few of: red, blue, yellow, green, orange, brown, gray
+- Light cel shading allowed on characters only, one flat darker tone, no gradients
+- Comic energy: action lines, motion streaks, impact bursts, sweat drops, sparkle marks, small emoji-style symbols
+- Red arrows, red circles, or red question marks to point out the important thing
+- Simple backgrounds that set the scene with just a few shapes: a doorway, a desk, a gym bench, a phone screen, a couch, a street sign
+- Mostly white empty space around the action
+- No realistic shading, no 3D, no cinematic lighting
+- No Disney style, no anime style, no realistic humans
+- No polished professional vector art, no glossy or modern corporate design
+- No complex textures or detailed backgrounds
+- All characters are original, not based on any existing superhero or cartoon character
+
+Objects are built from basic shapes: rectangles, circles, boxes, arrows, tables, screens, signs, trees, rooms, simple symbols.
+
+The drawing should feel like a budding comic artist's doodle: simple and a bit rough, but with good timing, clear body language, and a punchline you can read in one second. Not too polished, not too bad.
+
+Storytelling:
+- The image must show exactly what is being described in the scene, literally and clearly
+- One clear moment or action per image
+- If the scene compares two things, show them side by side
+- If the scene shows a feeling, show it through pose, expression, and props, not through empty symbolism
+
+Labels:
+- Short handwritten labels are allowed to clarify key objects or people, like "HER", "YOU", "GYM", "$$$", "2 AM"
+- Labels are one to three words maximum, all caps, spelled correctly, placed next to what they label
+- No more than three labels per image
+- No sentences, no captions, no speech bubbles with long text
+
+Format: horizontal 16:9 wide frame. Clean, readable, centered. Do not crop important objects. Leave space around characters and objects. Avoid glitches, broken anatomy, unreadable text, and messy overlapping objects.
+
+CRITICAL: Every person in this image is a stick figure. Round circle head, single-line body, single-line arms and legs. No torsos, no muscles, no realistic bodies, no clothing folds. Even if the scene describes a man, a woman, clothing, or a body, draw them as a stick figure. Clothing is shown with at most one simple shape, like a colored triangle skirt or a cape.
+
+Scene to illustrate:

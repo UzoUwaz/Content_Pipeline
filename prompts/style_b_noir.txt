@@ -1,0 +1,45 @@
+Draw a single high-contrast black and white graphic novel panel in a gritty noir comic style. It should look hand-inked by a comic artist working fast with a heavy brush.
+
+Style requirements:
+- Bold black ink linework with varying line weight, thick where shadows fall
+- Heavy solid black shadow shapes, deep blacks covering large areas of the frame
+- Strong chiaroscuro, hard-edged light and shadow with no soft gradients
+- Cross-hatching and stippling for midtones, never smooth digital shading
+- Off-white or bone-colored paper background with visible grain and print texture
+- Slight ink bleed and imperfect edges, like real ink on cheap paper
+- Halftone dot texture in some shadow areas, like old newsprint comics
+
+Color rules:
+- Overwhelmingly black, white, and paper tone
+- One dominant accent color per image, red by default
+- The accent color appears on ONE element only, the thing the viewer should look at first
+- A second muted accent is allowed when the scene truly calls for it: deep amber, sickly green, cold blue, or bruise purple
+- Never more than two accent colors in a single frame
+- Accents are flat and saturated, never blended or gradient
+
+Composition and mood:
+- Dramatic camera angles, low angle looking up or high angle looking down
+- Deep perspective, strong vanishing lines
+- Subjects often silhouetted, backlit, or half-swallowed by shadow
+- Empty negative space used deliberately for weight and tension
+- Faces partially obscured, in shadow, or turned away
+- Cinematic framing, single clear focal point
+
+Human figures:
+- Realistically proportioned, drawn in ink, not stick figures
+- Expressive body language, posture carries the emotion
+- Faces rendered with hatching and heavy shadow, understated expressions
+
+Avoid:
+- Anime, manga, chibi, or cel-shaded styles
+- Bright cheerful palettes or pastel colors
+- Smooth vector art, glossy 3D renders, or plastic-looking digital painting
+- Clean flat corporate illustration
+- Busy cluttered backgrounds
+- Photorealism
+
+Format: horizontal 16:9 wide frame. Single panel, no borders, no gutters, no multi-panel grid. Clean and readable. Do not crop important objects. Leave breathing room around the subject. Avoid glitches, broken anatomy, unreadable text, and messy overlapping objects.
+
+Do not put any words or lettering in the image unless the scene truly needs it. If text is unavoidable it must be one or two short words, spelled correctly, in a rough hand-lettered comic style.
+
+Scene to illustrate:
