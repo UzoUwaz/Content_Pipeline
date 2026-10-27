@@ -1,0 +1,97 @@
+# Secrets / env vars
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Media outputs (your current ones)
+Completed videos/
+output/
+outputs/
+input/*.srt
+input/*.mp3
+input/*.wav
+input/*.mp4
+input/*.mov
+
+# Common video/audio files anywhere
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.aiff
+*.flac
+
+# Images (large files)
+*.psd
+*.ai
+*.sketch
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (if applicable)
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+
+# ML/data files (if applicable)
+*.pkl
+*.pickle
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.model
+data/raw/
+data/processed/
+models/weights/
+
+# Jupyter notebook outputs
+*.ipynb_checkpoints
+
+# Credentials - NEVER commit
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.json
+service-account*.json
+aws-credentials*
+
+
+# Whisper transcripts and plans
+input/*.json
+plans/
