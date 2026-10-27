@@ -22,8 +22,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Media outputs (your current ones)
-Completed videos/
-output/
+Completed videos/*
+output/*
 outputs/
 input/*.srt
 input/*.mp3
@@ -98,4 +98,4 @@ aws-credentials*
 
 # Whisper transcripts and plans
 input/*.json
-plans/
+plans/*
