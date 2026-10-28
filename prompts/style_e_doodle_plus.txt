@@ -1,0 +1,99 @@
+Hand-drawn doodle illustration with pen-and-ink outlines, flat painted color
+fills, and a deliberately uneven line weight that reads as drawn rather than
+rendered. The characters stay stick-figure simple — bubble heads, straight
+limbs, exaggerated expressions. The world around them is where the detail
+goes: real settings, real objects, honest shadows, subtle textures.
+
+Visual grammar
+- Characters: oval or circle heads, simple round eyes, stick limbs with
+  bubble hands when gesturing. Clothing is drawn in: a shirt collar, a
+  skirt line, shoes with a heel. Clothing takes the palette's accent
+  colors, bodies stay white or cream. Expressions carry the beat — brow
+  angle, mouth shape, sweat drop, shock lines.
+- Background: full environment, not a blank page. Floor plane, horizon,
+  furniture, trees, buildings, weather. Rendered with painted fills and
+  soft outlines, no photoreal detail but no empty white space either.
+  A chain-link fence has links. A tennis court has lines and a net. A
+  campfire has distinct logs and a flame shape. A phone has a visible
+  screen with icons on it.
+- Line: 2–4 px pen stroke on characters and key objects, 1–2 px on
+  background detail. Lines carry small wobbles and corrections, not
+  machine straight. No gradients. No outlines that fade.
+- Color: flat painted fills within the lines, 4–7 colors per frame
+  pulled from the active palette. Shadows are a single flat tone darker
+  than the fill, applied in simple shapes. No airbrushing, no bloom.
+- Composition: one clear subject, one supporting prop or figure, one
+  background that establishes place. Wide 3:2 frame with the subject
+  roughly central, action moving left-to-right. Leave room for a label
+  if the scene wants one.
+- Labels: hand-drawn block letters when a scene calls for one. Max 3
+  words, all caps, placed in empty sky, floor, or a sign the character
+  holds. White fill with the palette's ink color outline.
+
+Realism dial
+Realism belongs to objects, not people. A character stays doodled;
+their guitar can have six strings, their coffee cup can have steam
+curls, their desk can have a lamp with a visible bulb. If a scene
+names a specific real thing — a cathedral, a 1960s diner, a crow on a
+fence — draw it recognizably but keep it painted and simple, not
+photographic. If the scene names a stylized concept — a thought
+bubble, a crossroads sign, a glowing idea — keep it iconic and clean.
+
+Palettes
+Every scene uses exactly one palette, named in the scene prompt or
+chosen by what the scene describes. Pick ink and background first,
+then let the accents land on clothes, props, and signage. Palettes
+below are hex guides; stay close, don't nail them to the pixel.
+
+PALETTE_WARM_DOODLE   (the default feel)
+  ink #2B2B2B   background #F3EDE1   fill #FFFFFF
+  accents #D97B4A (rust)  #4B8E7D (sage)  #2E5B7B (ink blue)
+  pop #E8C547 (mustard)
+  Use when a scene is grounded, outdoors, nostalgic, or human-scale.
+
+PALETTE_CLEAN_BRIGHT   (energetic, clear)
+  ink #1A1A1A   background #FAFAFA   fill #FFFFFF
+  accents #1F6FEB (clear blue)  #E63946 (signal red)
+  secondary #FFD166 (gold)  #06A77D (jade)
+  Use for sports, tech, explainers that need snap and legibility.
+
+PALETTE_MOODY_PAPER   (introspective, quieter)
+  ink #262626   background #D9D4C7   fill #F5F0E3
+  accents #6B7A8F (slate)  #A8574A (clay)  #4F6B55 (olive)
+  Use for think pieces, memory, nighttime, cold weather. Pull saturation
+  down one notch from WARM.
+
+PALETTE_NEON_NIGHT   (urban, after dark)
+  ink #0F1419   background #1E2328   fill #2A3038
+  accents #FF4A6B (hot pink)  #4CC9F0 (cyan)  #9B5DE5 (purple)
+  pop #FFEB70 (lamp yellow)
+  Use for city scenes, phone screens glowing in the dark, late-night
+  reflection, music, gaming. Character lines use #FFFFFF ink.
+
+PALETTE_CORPORATE_FLUORESCENT   (office, drab)
+  ink #333333   background #E8E6DE   fill #FFFFFF
+  accents #4A5C6A (steel)  #8B9D83 (sickly green)  #B8663F (brick)
+  Use for workplaces, cubicles, bureaucracy, meetings. Deliberately
+  undersaturated — this palette should feel a little airless.
+
+PALETTE_MYTHIC_PARCHMENT   (timeless, elevated)
+  ink #3B2F1D   background #EAD9B5   fill #F7EBCE
+  accents #8B2E1F (ox-blood red)  #2B4C6F (deep teal)  #B88A3D (gold)
+  Use for history, religion, myth, nature at scale, ancient settings.
+  Lines slightly thicker, texture allowed on backgrounds (dot stippling,
+  cross-hatch on shadows).
+
+Scene prompts may name a palette by key (PALETTE_WARM_DOODLE), say
+"warm doodle palette," or describe a mood ("mustard and sage, warm
+afternoon"). All three work. When a scene names no palette, use
+PALETTE_WARM_DOODLE.
+
+What to avoid
+- Photorealistic faces, textured skin, detailed hands with knuckles
+- Digital art shortcuts: lens flare, chromatic aberration, soft focus,
+  3D depth-of-field, metallic reflections
+- Clip-art iconography where a drawn version would do
+- Backgrounds that are a single flat color behind the subject when a
+  real place is called for
+- Perfect straight lines, perfect circles, perfect perspective
+- More than three distinct labeled elements per frame
