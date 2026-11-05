@@ -29,6 +29,12 @@ Visual grammar
 - Labels: hand-drawn block letters when a scene calls for one. Max 3
   words, all caps, placed in empty sky, floor, or a sign the character
   holds. White fill with the palette's ink color outline.
+  Every label must sit fully inside the frame, with at least 8% margin on
+  all sides. If a label would touch any edge, make it smaller or move it
+  inward. Long words must not be broken across the edge — shorten the
+  label instead of letting it clip
+- Signs, posters, boards, and any object containing text must be fully
+  visible, with no edge of the sign or its text touching the frame
 
 Realism dial
 Realism belongs to objects, not people. A character stays doodled;
@@ -97,3 +103,5 @@ What to avoid
   real place is called for
 - Perfect straight lines, perfect circles, perfect perspective
 - More than three distinct labeled elements per frame
+- Labels, signs, or title text touching or clipping the frame edge
+- Subjects' heads, hands, or feet clipped by the frame
